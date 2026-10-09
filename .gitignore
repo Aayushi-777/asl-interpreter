@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+asl_env/
+venv/
+.venv/
+env/
+
+# Kaggle credentials and configuration
+.kaggle/
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
